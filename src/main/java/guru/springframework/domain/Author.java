@@ -1,4 +1,4 @@
-package guru.spring5webapp.domain;
+package guru.springframework.domain;
 
 import javax.persistence.*;
 import java.util.HashSet;
